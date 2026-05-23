@@ -1,0 +1,56 @@
+
+=================================================
+      STUDENT GRADE CALCULATOR
+==================================================
+
+Enter number of students: 4
+
+=== STUDENT 1 ===
+Student name: Rohini Fere
+Enter marks (0-100):
+Math: 85
+Science: 92
+English: 78
+
+=== STUDENT 2 ===
+Student name: Ashwini Kapse
+Enter marks (0-100):
+Math: 95
+Science: 88
+English: 91
+
+=== STUDENT 3 ===
+Student name: Michael Brown
+Enter marks (0-100):
+Math: 67
+Science: 72
+English: 70
+
+=== STUDENT 4 ===
+Student name: Emily Davis
+Enter marks (0-100):
+Math: 55
+Science: 60
+English: 68
+
+
+==================================================
+            RESULTS SUMMARY
+==================================================
+Name                 |   Avg | Grade | Comment
+------------------------------------------------------------
+ROhini Fere          |  85.0 |   B   | Very Good! You're doing well.
+Ashwini Kapse          |  91.3 |   A   | Excellent! Keep up the great work!
+Michael Brown        |  69.7 |   D   | Needs Improvement. Please study more.
+Emily Davis          |  57.7 |   F   | Failed. Please seek help from teacher.
+==================================================
+          CLASS STATISTICS
+==================================================
+Total Students: 4
+Class Average: 75.9
+Highest Average: 91.3 (Kapse Ashwini)
+Lowest Average: 57.7 (Emily Davis)
+
+==================================================
+Thank you for using the Grade Calculator!
+==================================================

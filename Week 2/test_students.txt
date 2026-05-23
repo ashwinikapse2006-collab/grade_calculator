@@ -1,0 +1,23 @@
+
+Enter number of students: 4
+
+Rohini Fere 
+85
+92
+78
+
+Ashwini Kapse
+95
+88
+91
+
+Michael Brown
+67
+72
+70
+
+Emily Davis
+55
+60
+58
+
